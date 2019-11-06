@@ -71,4 +71,5 @@ def anotherthing():
     pass
 
 def add123():
-    pass
+    1+2=3
+    return none
