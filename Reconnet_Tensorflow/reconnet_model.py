@@ -66,3 +66,6 @@ def divide_img_to_blocks(image, stride=14, filter_size=33):
 
 def something():
     pass
+
+def anotherthing():
+    pass
