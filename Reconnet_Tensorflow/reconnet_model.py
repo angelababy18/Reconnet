@@ -63,3 +63,6 @@ def divide_img_to_blocks(image, stride=14, filter_size=33):
             blocks.append(image[stride*i:filter_size+stride*i, stride*j:filter_size+stride*j])
     
     return np.asarray(blocks)
+
+def something():
+    pass
